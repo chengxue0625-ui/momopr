@@ -1,0 +1,4 @@
+streamlit>=1.30
+curl_cffi>=0.6
+pandas>=2.0
+plotly>=5.18
